@@ -24,3 +24,9 @@ description: 哥的第二篇博客，讲讲博客的历史，讲讲杨致远。
 杨致远自己也做invest，cloud和big data现在算热点。
 
 之后观众提问，有问到关于空气污染和水，杨致远说斯坦福有很多这方面研究，关于filter，mask，以及sensor。但是这不一定能挣钱，但是需要合作合作，不一定适合做startup。
+
+还支持代码高亮。
+
+~~~~{python}
+print 'hello world'
+~~~~
