@@ -1,14 +1,16 @@
 ---
 layout:     post
-title:      我的第二篇博客？
+title:      我的第二篇博客
 category: blog
 description: 哥的第二篇博客，讲讲博客的历史，讲讲杨致远。
 ---
-
+##新博客开张，旧博客的历史
 咱的一个blog终于开张了，这下开始正经写了。<br>
 1999年木子美刚出道的时候，哥就开始写blog了，跟木子美正好在一个网站。
 后来blogcn被木子美搞得当掉了，哥就转战天涯，在天涯转战了十年，天涯blog还被干掉过一次。之后辗转到了blogger，blogger倒是不删帖，但是blogger国内访问不了。所以就没有那么高大上了，还是在github上自己建站比较牛叉。<br>
 <br>
+
+##HYSTA年会，有关杨致远
 今天HYSTA去听了杨致远fireplace talk，杨致远也算是硅谷的传奇人物，1995年的时候创立了yahoo！走在了时代前列。google，阿里巴巴，facebook都在他之后。yahoo也是当年流量第一的网站。后来被Google，facebook超过了。yahoo当年投资1bn给阿里巴巴，以至于阿里巴巴上市后，yahoo持有的alibaba股份比yahoo自己的市值还高。<br>
 由于Yahoo一系列战略失误，使得yahoo渐渐丢失了市场的领先，搜索引擎干不过google，后来又跟bing合作。卖微软，杨致远不同意，后来杨致远被挤出了董事会，yahoo频繁换ceo，marisa加盟之后，yahoo有了一些起色，但是跟离风头正劲的时候比，还是显得有些后劲不足。<br>
 杨致远讲了一些自己做的事情。以及后头可以做的事。
