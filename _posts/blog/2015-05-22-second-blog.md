@@ -2,7 +2,7 @@
 layout:     post
 title:      我的第二篇博客
 category: blog
-description: 哥的第二篇博客，讲讲博客的历史，讲讲杨致远。
+description: 哥的第二篇博客，讲讲博客的历史，顺便聊聊杨致远。
 ---
 ##新博客开张，旧博客的历史
 咱的又一个blog终于开张了，这下开始正经写了。<br>
