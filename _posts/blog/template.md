@@ -9,4 +9,4 @@ category: blog
 
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[NoRegret]:    http://noregret.tianya.blog.cn  "No Regret"
