@@ -13,6 +13,7 @@ description: 哥的第二篇博客，讲讲博客的历史，讲讲杨致远。
 ##HYSTA年会，有关杨致远
 今天HYSTA去听了杨致远fireplace talk，杨致远也算是硅谷的传奇人物，1995年的时候创立了yahoo！走在了时代前列。google，阿里巴巴，facebook都在他之后。yahoo也是当年流量第一的网站。后来被Google，facebook超过了。yahoo当年投资1bn给阿里巴巴，以至于阿里巴巴上市后，yahoo持有的alibaba股份比yahoo自己的市值还高。<br>
 由于Yahoo一系列战略失误，使得Yahoo渐渐丢失了市场的领先，搜索引擎干不过google，后来又跟bing合作。卖微软，杨致远不同意，后来杨致远被挤出了董事会，yahoo频繁换ceo，Marissa加盟之后，Yahoo有了一些起色，但是跟离风头正劲的时候比，还是显得有些后劲不足。<br>
+![Git Bash](/images/githubpages/20150522-yangzhiyuan.jpg)
 杨致远讲了一些自己做的事情。以及后头可以做的事。
 和阿里巴巴Jace Ma接触的事情。杨致远跟马云在长城上见面，现在那张照片还挂在阿里巴巴杭州总部。
 2004 经过深思熟虑 投入做platform，以及做了几年中国市场。
