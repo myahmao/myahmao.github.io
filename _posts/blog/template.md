@@ -9,4 +9,4 @@ category: blog
 
 
 
-[NoRegret]:    http://noregret.tianya.blog.cn  "No Regret"
+[NoRegret]:    http://noregret.blog.tianya.cn  "No Regret"
